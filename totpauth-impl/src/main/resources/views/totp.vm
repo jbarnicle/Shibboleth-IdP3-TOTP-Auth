@@ -32,6 +32,7 @@ p.error {
 
 
            <form action="$flowExecutionUrl" method="post">
+           <h1>Hello world</h1>
 
             <div class="form-element-wrapper">
               <label for="tokenNumber">Token code</label>
